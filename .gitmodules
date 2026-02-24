@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MVNGmod"]
+	path = MVNGmod
+	url = https://github.com/soonsk-vcu/mvngmod
 [submodule "MVSKmod"]
 	path = MVSKmod
 	url = https://github.com/soonsk-vcu/mvskmod
